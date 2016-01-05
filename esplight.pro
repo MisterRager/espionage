@@ -1,4 +1,4 @@
-update=Mon 16 Nov 2015 07:35:42 PM PST
+update=Mon 04 Jan 2016 12:21:17 PM PST
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,4 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=/home/guy/kicad/libraries/kicad-ESP8266/ESP8266
 LibName31=/home/guy/kicad/libraries/roshanbirkodi-libraries/AMS117/ams1117
-LibName32=/home/guy/kicad/libraries/dip-switches-piazzetta/dips-s
+LibName32=/home/guy/kicad/libraries/serial/serial_interface
